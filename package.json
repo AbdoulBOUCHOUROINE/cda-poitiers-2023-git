@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AbdoulBOUCHOUROINE/cda-poitiers-2023-git/issues"
   },
-  "homepage": "https://github.com/AbdoulBOUCHOUROINE/cda-poitiers-2023-git#readme"
+  "homepage": "https://github.com/AbdoulBOUCHOUROINE/cda-poitiers-2023-git#readme",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
 }
